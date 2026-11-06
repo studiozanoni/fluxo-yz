@@ -1,75 +1,73 @@
-# fluxo.yz — Sprint de aquisição orgânica (24 horas)
+# fluxo.yz — 24h launch V2: DISTRIBUIÇÃO antes de e-mail
 
-**Data:** 06/11/2026. **Mídia paga:** R$0 / HK$0. **Prioridade:** contatos qualificados e distribuição consentida, não crescimento de seguidores.
+**Missão:** colocar os SETE produtos diante de públicos reais, gerar tráfego rastreável, primeiras vendas e parceiros de distribuição. **Mídia paga: HK$0.** O e-mail é apenas um canal opcional para contactar administradores, NUNCA o motor da estratégia.
 
-## Estado técnico já executado
+**Início:** 7 de novembro de 2026. **Responsável operacional:** agente executor com acesso autorizado a navegador, GitHub e contas sociais. **Status:** roteiro criado; os envios anteriores estão em `growth/outreach-sent.csv` — não repetir.
 
-- 7 páginas de produto criadas em `/ofertas/<slug>.html`.
-- Catálogo completo em https://studiozanoni.github.io/fluxo-yz/ofertas/.
-- A página inicial anterior mostra seis produtos; **a calculadora de sublimação está ausente**. A nova página dedicada resolve o compartilhamento, mas a página inicial deve ser atualizada em outra alteração.
-- Checkout Kiwify usado para os sete produtos. Validar a compra real e desbloqueio do saldo (KYC/Pix pendente) antes de contar dinheiro como recebido.
-- As URLs novas foram gravadas no GitHub. A propagação do GitHub Pages não foi verificada pelo navegador externo.
+## Produtos e canais correspondentes (7/7)
 
-## Entregáveis de cada produto, sem exceção
+1. **Kit Fim de Ano Sem Dívidas** — comunidades de educação financeira doméstica, contas de planejamento de Natal/13º, criadores de orçamento familiar, Facebook e Pinterest. Link: https://studiozanoni.github.io/fluxo-yz/ofertas/fim-de-ano-sem-dividas.html
+2. **Agenda da Mulher Virtuosa 2027** — ministérios femininos, criadoras cristãs, comunidades de organização e rotina com fé, Instagram Collab e WhatsApp com convite do administrador. Link: https://studiozanoni.github.io/fluxo-yz/ofertas/mulher-virtuosa-2027.html
+3. **Caderno Financeiro Cristão da Família 2027** — redes de famílias cristãs, comunidades de casais, criadoras de finanças familiares, grupos de igreja por intermédio da coordenação. Link: https://studiozanoni.github.io/fluxo-yz/ofertas/familia-crista-2027.html
+4. **Agenda Financeira 2027** — contas de orçamento pessoal, Facebook planejamento financeiro, Pinterest, microcriadores de organização. Link: https://studiozanoni.github.io/fluxo-yz/ofertas/agenda-financeira-2027.html
+5. **Planilha Fluxo de Caixa do MEI 2027** — contadores e educadores para MEI, comunidades de empreendedores, grupos Facebook de pequenos negócios, criadores de conteúdo sobre caixa e DAS. Link: https://studiozanoni.github.io/fluxo-yz/ofertas/fluxo-caixa-mei-2027.html
+6. **Agenda de Foco 2027** — contas de produtividade e estudo, redes Studygram, comunidades de concurseiros e profissionais autônomos, Pinterest e Reels. Link: https://studiozanoni.github.io/fluxo-yz/ofertas/agenda-foco-2027.html
+7. **Calculadora de Custos para Sublimação** — comunidades de personalizados, sublimadores, artesãs, criadores de precificação e grupos especializados de Facebook/WhatsApp. Link: https://studiozanoni.github.io/fluxo-yz/ofertas/custos-sublimacao.html
 
-1. Uma mensagem curta de encaminhamento a parceiro (abaixo).
-2. Uma mensagem de conteúdo útil, sem apelo comercial agressivo, para administrador avaliar.
-3. Um link exclusivo de compartilhamento com `utm_source`, `utm_medium`, `utm_campaign=organico-24h`, `utm_content=slug`.
-4. Uma lista de pelo menos 10 parceiros candidatos, baseada em fontes públicas, com URL, pertinência, contacto público, restrições, estado e resultado.
-5. Uma publicação no canal próprio **apenas se houver conexão de publicação autorizada**, e um artefato pronto se não houver.
+## Distribuição — ordem de execução, sem depender de followers
 
-## Sequência operacional
+### H0–H2 — Produto e conversão
+- Verificar as sete páginas, seus preços/checkout, funcionamento móvel, identidade e saldo da Kiwify. Registrar bloqueios; não interromper o restante da execução.
+- Criar link rastreado distinto por canal com `utm_source`, `utm_medium=organico`, `utm_campaign=lancamento24h`, `utm_content=<slug>`.
+- Selecionar uma demonstração real por produto: tela, páginas, fórmulas, recursos e entrega. Não inventar recursos ou depoimentos.
 
-**H0–H2:** validar as sete páginas e URLs; verificar produto físico/digital, preço, entrega e regras de reembolso; extrair contactos públicos dos candidatos; registrar lacunas. Preparar material por segmento. 
+### H2–H6 — Publicar onde já existe controlo
+- Se houver acesso autorizado ao Instagram da marca: publicar **um Reel ou carrossel para cada um dos sete produtos**. Não contar o conteúdo do CSV como publicação. Criar fixados e destaque de categorias.
+- Com conta Pinterest conectada: produzir **duas peças visuais por produto (14 Pins)** e publicar com título pesquisável e link individual. O arquivo `growth/pinterest-14.csv` é só COPY, não planilha pronta para importação; incluir `Media URL` pública e `Pinterest board` para importação oficial.
+- Reaproveitar vídeos como YouTube Shorts apenas com conta ligada. Não criar conta ou publicar em nome de terceiros sem autorização.
+- Gravar URLs/permalinks públicos no log.
 
-**H2–H5:** publicar 7 posts úteis no perfil próprio (um por produto) se houver acesso autorizado; criar 7 roteiros de vídeos simples e 14 Pins para futuras publicações via interface disponível. Não afirmar que publicou quando somente preparou.
+### H4–H12 — Comunidades: distribuição real, não lista de e-mails
+- Procurar 4–6 grupos **ativos e relevantes por produto** em Facebook e WhatsApp e verificar regras antes de entrar. Priorizar **grupos que autorizam divulgação de produtos digitais**. Para grupos temáticos que não permitem venda, falar com o administrador ou propor conteúdo editorial; não publicar links comerciais.
+- Candidatos públicos: 
+  - Grupo de divulgação de produtos/parcerias https://encontreumgrupo.com.br/grupos/divulgacao-e-networking-parceria/ (regras permitem divulgação de físicos/digitais, verificar novamente no ingresso).
+  - Grupo Divulgação & Parcerias https://www.gruposzapp.com/grupo.php?slug=divulgacao (regras publicadas permitem links/produtos com moderação).
+  - Facebook sublimação trocas https://www.facebook.com/groups/sublimacao.trocas — verificar regras internas e necessidade de autorização.
+  - Comunidade da área de sublimação https://familiasublimatica.com.br/ — abordagem ao criador para material ou comissão.
+  - Sulink https://sulink.com.br/blog/sublimacao/4-grupo-de-whatsapp-sobre-sublimacao é PROIBIDO publicidade; não usar para divulgar.
+- Elaborar versão específica do post para cada grupo com uma dica útil contextual e oferta explícita quando permitida.
+- Registrar: grupo, URL, membros ou atividade observáveis, regras, produto, post publicado ou pedido enviado, link/permalink e métricas.
 
-**H5–H10:** pesquisar e qualificar 40 parceiros/administradores: 10 finanças, 10 fé/família, 10 pequenos negócios/sublimação, 10 produtividade/estudo. Priorizar email institucional e formulário público. Oferecer parceria por indicação, comissão configurada ou material editorial, sem prometer comissão ainda não autorizada.
+### H6–H16 — Distribuição por parceiros / afiliados
+- Identificar 3–5 criadores ou administradores por segmento: finanças do lar, cristãs, MEI, produtividade e sublimação.
+- Instagram: abordar microcriadores por mensagens personalizadas pelo próprio perfil da marca. Propor publicação colaborativa, demonstração, review honesto ou indicação com afiliado.
+- Kiwify suporta convite de afiliado por link específico de produto, com comissão automática por venda aprovada: https://ajuda.kiwify.com.br/pt-br/article/como-convidar-afiliados-para-promover-o-seu-produto-ucesza/. Configurar os sete produtos onde permitido e validar rentabilidade; não oferecer comissão fictícia.
+- Comunidades religiosas: ministérios Entre Amigas, Projeto Iluminar, Reformadoras, Enraizadas e MECAM. Primeiro contacto com coordenação; respeito aos objetivos das comunidades, sem alegar patrocínio religioso.
+- Enviar as propostas somente pelos canais públicos ou por contactos que autorizem mensagens; NUNCA extrair telefone de membros para DMs em massa.
+- E-mail só quando não há melhor canal, sem repetir os seis envios existentes.
 
-**H10–H16:** encaminhar até 20 mensagens individuais, relevantes e personalizadas **apenas via canais que permitam essa abordagem**, sem scraping de números ou uso de listas compradas; não enviar para pessoas físicas não solicitantes por WhatsApp. Para grupos, primeiro solicitar autorização ao responsável.
+### H16–H24 — Conversão, medição, aprendizagem
+- Atualizar planilha de distribuição com eventos concretos: #publicações ao vivo, alcance/impressões disponíveis, cliques UTM, visitas checkout, compras aprovadas, parceiros que aceitaram compartilhar, comissão prevista, receita após taxas.
+- Priorizar seguimento para os parceiros que responderam e grupos que efetivamente trouxeram tráfego. Não chamar visualizações de vendas.
+- Rever links quebrados, entregar relatório verificável com URLs de posts. Sem vendas? Declarar zero/indisponível; recomendar o próximo teste com dados.
 
-**H16–H20:** responder a quem demonstrou interesse; fornecer material e links rastreáveis ao administrador; publicar em comunidade apenas com permissão expressa. Confirmar condições para afiliados antes de oferecer percentagens.
+## Produtos / entregáveis mínimos a perseguir (alvos, não resultados)
+- **7** publicações próprias, pelo menos **14** Pins visuais, **7** URLs rastreadas.
+- **20** comunidades avaliadas com regras, **10** inserções comerciais autorizadas ou pedidos a moderadores, **20** propostas individualizadas a criadores/parceiros.
+- **7** programas/links de afiliação verificados ou estados de bloqueio; sem pagamento antecipado.
+- **1** relatório de resultados reais, com links comprováveis e vendas efetivamente verificadas.
+- Todos os sete produtos devem aparecer no relatório. Gastos com anúncios = zero.
 
-**H20–H24:** compilar tabela de atividades reais: destinatário, canal, mensagem, resposta, link e cliques mensuráveis; vendas aprovadas, receita bruta, taxa de conversão quando disponível. Preparar a próxima rodada com base em resposta real, sem inventar resultados.
+## Preferências do operador
+AUTONOMIA MÁXIMA: evitar perguntas, aprovações repetitivas e tarefas que interrompam a execução. Usar conectores, APIs e navegador autorizados; se uma conta estiver bloqueada, completar as restantes. Não afirmar trabalho concluído sem link, ID de mensagem ou registo. Não enviar spam, não entrar em espaços restritos fraudulentamente, não simular afiliações nem falsificar endossos. Avisar o utilizador apenas se uma autorização indispensável impedir a etapa.
 
-## Canais concretos iniciais
+## Ativos atuais
+- `growth/products.csv`: os sete produtos.
+- `growth/posts-instagram.csv`: textos iniciais (falta produzir a peça visual).
+- `growth/pinterest-14.csv`: ideias de Pins (falta Media URL e Pinterest board).
+- `growth/leads.csv`: primeiros candidatos (não equivale a grupo que aceitou publicar).
+- `growth/outreach-sent.csv`: seis e-mails já enviados, não duplicar.
+- `growth/EXECUTION-LOG.md`: log factual inicial.
 
-Consultar `growth/leads.csv`: Sulink, ComunidadeWEB, CR Impressões, ministérios de mulheres (Entre Amigas, Iluminar, Enraizadas Coram Deo), Reformadoras, Esposas Legendários, Clube da Boppré, Rede Artesol.
-
-**Nota importante:** Sulink proíbe autopromoção expressamente. Vários diretórios de WhatsApp listam grupos que proíbem links ou DMs. Não usar como destinos automáticos de anúncios. São pistas para encontrar administradores ou parceiros, não permissão para distribuir publicidade.
-
-## Modelos de mensagem
-
-### Parceiro educador MEI, finanças ou sublimação
-
-**Assunto:** Recurso prático para sua comunidade — fluxo.yz
-
-Olá! Conheci seu trabalho com [tema específico]. Desenvolvemos uma ferramenta digital para [problema realmente coberto pelo produto], com preço acessível e checkout no Brasil. Gostaria de lhe mostrar uma demonstração e avaliar uma indicação útil para a sua audiência, caso esteja alinhada ao que você publica. Não pretendo enviar divulgação indiscriminada ao grupo. Posso encaminhar o material para sua avaliação? 
-
-[link de página pertinente apenas se o canal e contexto permitirem]
-
-### Administradora de comunidade cristã
-
-Olá! Vi o trabalho de [nome da comunidade] com mulheres/famílias cristãs. Temos duas ferramentas digitais para organização da rotina e do orçamento familiar em 2027, cada uma com um propósito próprio. Gostaria de propor um conteúdo prático de planejamento para avaliação da coordenação — e, apenas se fizer sentido para o grupo, apresentar os materiais aos interessados. Posso encaminhar uma amostra? 
-
-### Comunidade autorizada: rotina e organização
-
-Para quem está começando a organizar 2027, uma forma simples é separar as decisões em três blocos: contas fixas, despesas variáveis e objetivos do ano. A rotina funciona melhor quando cada bloco tem um espaço claro e pode ser revisitado. Preparamos materiais digitais para diferentes perfis — pessoal, família, pequenos negócios e produtividade. [incluir link segmentado apenas se o administrador permitir]
-
-### Comunidade autorizada: sublimação
-
-Na precificação de produtos personalizados, não basta olhar para o custo do item em branco. Vale reunir material, impressão, embalagem, perdas e tempo de produção para chegar a um preço coerente. A fluxo.yz desenvolveu uma calculadora digital voltada a esse trabalho. [link da calculadora apenas com permissão]
-
-## Regras de operação
-
-- Não iniciar disparos em massa de WhatsApp nem recolher telefones de membros. A política do WhatsApp exige contato previamente consentido e desencoraja automação não autorizada: https://whatsappbusiness.com/policy/.
-- Não publicar em comunidades que vedam publicidade; contactar administrador por meio público pertinente.
-- Não fingir pertencimento a grupos religiosos, filiação a igrejas ou recomendações de lideranças.
-- Não criar depoimentos, resultados de clientes, descontos ou urgência falsos.
-- Não oferecer produto como gratuito se o download completo é pago.
-- Não criar compromissos financeiros ou percentagens de comissão sem autorização.
-- Registrar ações realizadas, não apenas planeadas.
-
-## Prompt operacional do agente
-
-Você é o operador de aquisição orgânica da fluxo.yz. Execute AGORA um sprint de 24 horas cobrindo os SETE produtos de `growth/products.csv`, sem mídia paga. Você tem autonomia para pesquisar, criar assets, atualizar arquivos e realizar publicações autorizadas, usando APIs e conectores estáveis e evitando pedidos de confirmação repetidos. Não limite o trabalho a um produto. Cada produto deve receber um link, uma mensagem, uma lista de canais adequados e uma peça criativa específica. Faça pesquisa em comunidades e organizações reais, com URLs e regras verificadas. Priorize administradores, parcerias, criadores de conteúdo, igrejas e redes de WhatsApp com consentimento; não faça spam, scraping de telefones ou divulgação sem permissão. Trabalhe com 40 leads qualificados, prepare ou envie até 20 propostas personalizadas pelos canais disponíveis e permitidos, e produza 7 posts + 14 Pins. Verifique cada checkout e mantenha relatório de ações efetivamente concluídas, leads abordados, respostas, cliques e vendas; jamais reporte envio ou publicação não realizados. Evite interromper o operador exceto para autenticação ou autorização impossível de contornar. Se uma ferramenta não estiver ligada, continue todas as demais tarefas em vez de parar. Entregue CSV de leads, textos prontos e relatório final no repositório.
+## Prompt executivo
+Atue como operador de distribuição e aquisição em 24h. Prioridade absoluta: colocar produtos diante de pessoas reais, não produzir estratégia ou enviar listas de e-mails. Execute simultaneamente os sete tracks acima; publique conteúdos autorizados na marca, encontre comunidades que permitem divulgação, faça pedidos diretos a administradores, recrute criadores afiliados e distribua materiais comerciais onde houver permissão. Não concentre o esforço em um único produto. Trabalhe sem mídia paga, use as conexões disponíveis, mantenha registros verificáveis e execute em vez de elaborar planos novos. Não fique esperando respostas de e-mail para continuar os demais canais. Nunca afirme publicação, envio ou venda sem comprovação.
